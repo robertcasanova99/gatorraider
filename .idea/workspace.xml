@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f93a5615-1996-447b-b12e-b95e14866fc7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_Game.LEFT</find>
+      <find>addP</find>
+      <find>Game.LEFT</find>
+      <find>getActions</find>
+      <find>maze</find>
+      <find>pills</find>
+      <find>CURmaze</find>
+      <find>totLel</find>
+      <find>state</find>
+      <find>getLeve</find>
+      <find>totalTime</find>
+      <find>adva</find>
+      <find>checkLev</find>
+      <find>reset</find>
+      <find>getTarget</find>
+      <find>LAIR_TIME</find>
+      <find>DELAY</find>
+      <find>Random</find>
+      <find>random</find>
+      <find>Ran`</find>
+      <find>png</find>
+      <find>printWr</find>
+      <find>Devastator</find>
+      <find>SeekPill</find>
+      <find>newState</find>
+      <find>update</find>
+      <find>getPillList</find>
+      <find>writer</find>
+      <find>Exec.</find>
+      <find>rng</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.getX()</replace>
+      <replace>.getXY()</replace>
+      <replace>getY()</replace>
+      <replace>.getNumNeighbors()</replace>
+      <replace>.getPillIndex()</replace>
+      <replace>.getPowerPillIndex()</replace>
+      <replace>entry</replace>
+      <replace>hero</replace>
+      <replace>the hero</replace>
+      <replace>enemies</replace>
+      <replace>enemy</replace>
+      <replace>Game.Direction</replace>
+      <replace>Game.Direction.UP</replace>
+      <replace>Game.Direction.LEFT</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Repositories\gatorraider\System\game\system</dir>
+      <dir>C:\Repositories\gatorraider</dir>
+      <dir>C:\Repositories\gatorraider\src</dir>
+      <dir>C:\Repositories\gatorraider\System</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1eEADCZw0Hhcx1UetSpZTSOXBOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14902943" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jeremiah Blanchard\IdeaProjects\Ms. Pac-Man\System\game" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="game.models" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="game.controllers.benchmark" />
+      <recent name="ufl.cs1.controllers" />
+      <recent name="game.controllers.examples" />
+      <recent name="pakupaku.agent" />
+      <recent name="game.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jeremiah Blanchard\Repositories\pakupaku\System\game\controllers\examples" />
+      <recent name="C:\Users\Jeremiah Blanchard\Repositories\Pakku-Pakku\System\game\core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestAgent - Scored">
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ms. Pac-Man" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ms. Pac-Man" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Ms. Pac-Man" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pakku-Pakku" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ms. Pac-Man" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pakku-Pakku" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ms. Pac-Man" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pakku-Pakku" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ms. Pac-Man" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example - Debug" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-debugexample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example - Scored" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-testexample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example - Visual" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-visualexample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Human - Visual" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-visualhuman" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAgent - Debug" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-debugstudent" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAgent - Scored" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-teststudent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAgent - Visual" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <module name="PakuPaku" />
+      <option name="PROGRAM_PARAMETERS" value="-visualstudent" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Exec" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Ms. Pac-Man" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Example - Visual" />
+      <item itemvalue="Application.Human - Visual" />
+      <item itemvalue="Application.TestAgent - Visual" />
+      <item itemvalue="Application.Example - Scored" />
+      <item itemvalue="Application.TestAgent - Scored" />
+      <item itemvalue="Application.Example - Debug" />
+      <item itemvalue="Application.TestAgent - Debug" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f93a5615-1996-447b-b12e-b95e14866fc7" name="Default" comment="" />
+      <created>1439429863900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1439429863900</updated>
+      <workItem from="1505321338814" duration="7514000" />
+      <workItem from="1505329981340" duration="760000" />
+      <workItem from="1505330814781" duration="2475000" />
+      <workItem from="1505333697478" duration="2142000" />
+      <workItem from="1505343964077" duration="324000" />
+      <workItem from="1505344322391" duration="6529000" />
+      <workItem from="1505358756813" duration="3037000" />
+      <workItem from="1505361847060" duration="2100000" />
+      <workItem from="1505364439321" duration="466000" />
+      <workItem from="1505425133843" duration="1318000" />
+      <workItem from="1505520534805" duration="3104000" />
+      <workItem from="1505523997725" duration="1018000" />
+      <workItem from="1505525044291" duration="5072000" />
+      <workItem from="1505598673233" duration="29000" />
+      <workItem from="1505609115360" duration="1402000" />
+      <workItem from="1505610599603" duration="3595000" />
+      <workItem from="1505698098061" duration="4906000" />
+      <workItem from="1505944176476" duration="5000" />
+      <workItem from="1505944185654" duration="87000" />
+      <workItem from="1505944326313" duration="1387000" />
+      <workItem from="1506624903924" duration="785000" />
+      <workItem from="1506950220326" duration="2000" />
+      <workItem from="1507138441072" duration="1053000" />
+      <workItem from="1507228922911" duration="599000" />
+      <workItem from="1507337618945" duration="618000" />
+      <workItem from="1507388088330" duration="609000" />
+      <workItem from="1507684246139" duration="611000" />
+      <workItem from="1507773537437" duration="601000" />
+      <workItem from="1508022781132" duration="14037000" />
+      <workItem from="1508083904823" duration="1236000" />
+      <workItem from="1508085174697" duration="13457000" />
+      <workItem from="1508437020371" duration="682000" />
+      <workItem from="1509734103225" duration="8000" />
+      <workItem from="1509734170406" duration="13880000" />
+      <workItem from="1509756216082" duration="4087000" />
+      <workItem from="1509813610645" duration="984000" />
+      <workItem from="1509914199765" duration="10660000" />
+      <workItem from="1509933608453" duration="770000" />
+      <workItem from="1510084024285" duration="478000" />
+      <workItem from="1510182713708" duration="531000" />
+      <workItem from="1510184654956" duration="938000" />
+      <workItem from="1510196148755" duration="1042000" />
+      <workItem from="1510199486733" duration="11228000" />
+      <workItem from="1510364755787" duration="622000" />
+      <workItem from="1510713357199" duration="882000" />
+      <workItem from="1510719078816" duration="407000" />
+      <workItem from="1510861220354" duration="649000" />
+      <workItem from="1512078786425" duration="893000" />
+      <workItem from="1512082533212" duration="845000" />
+      <workItem from="1512151852267" duration="1567000" />
+      <workItem from="1512178014356" duration="6948000" />
+      <workItem from="1512263106437" duration="962000" />
+      <workItem from="1512265828028" duration="2467000" />
+      <workItem from="1512320644642" duration="1847000" />
+      <workItem from="1512330512978" duration="1236000" />
+      <workItem from="1512341898271" duration="598000" />
+      <workItem from="1512352311154" duration="2099000" />
+      <workItem from="1512596556655" duration="1854000" />
+      <workItem from="1512670272854" duration="617000" />
+      <workItem from="1512677578781" duration="2178000" />
+      <workItem from="1512696273087" duration="562000" />
+      <workItem from="1512697283873" duration="810000" />
+      <workItem from="1512702523790" duration="652000" />
+      <workItem from="1513185478801" duration="70000" />
+      <workItem from="1516838601265" duration="770000" />
+      <workItem from="1516839518538" duration="13000" />
+      <workItem from="1517526200986" duration="60000" />
+      <workItem from="1517526297653" duration="44000" />
+      <workItem from="1517701917190" duration="98000" />
+      <workItem from="1518123393898" duration="671000" />
+      <workItem from="1521576705673" duration="82000" />
+      <workItem from="1521576842145" duration="4650000" />
+      <workItem from="1521601882505" duration="1222000" />
+      <workItem from="1521844206290" duration="9869000" />
+      <workItem from="1521911518709" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175189000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/System/game/controllers/examples/NearestPillAttacker.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties>
+            <option name="NOTIFY_CAUGHT" value="false" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Ms. Pac-Man" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Ms. Pac-Man" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.13 (C:\Python27\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PakuPaku</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>pakupaku-benchmark</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
